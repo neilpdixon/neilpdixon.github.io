@@ -1990,8 +1990,8 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
-		color: #fff;
+		background: #fff;
+		color: #132065;
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
@@ -1999,7 +1999,7 @@
 		border: 0;
 		cursor: pointer;
 		outline: 0;
-		font-weight: 300;
+		font-weight: 400;
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -2012,7 +2012,7 @@
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #132065;
 		}
 
 		input[type="button"].alt,
@@ -2096,7 +2096,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/headernew.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2177,7 +2177,7 @@
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #132065;
 			display: block;
 			position: absolute;
 			left: 0;
@@ -2378,7 +2378,7 @@
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
+		background: #284381;
 		color: #fff;
 	}
 
