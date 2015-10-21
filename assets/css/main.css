@@ -1832,7 +1832,7 @@
 
 	ul.icons {
 		position: relative;
-		background: rgba(128, 128, 128, 0.05);
+		background: #fff;
 		border-radius: 4em;
 		display: inline-block;
 		padding: 0.35em 0.75em 0.35em 0.75em;
@@ -1846,18 +1846,18 @@
 
 			ul.icons li a {
 				display: inline-block;
-				background: none;
+				background:none ;
 				width: 2.5em;
 				height: 2.5em;
 				line-height: 2.5em;
 				text-align: center;
 				border-radius: 100%;
 				border: 0;
-				color: inherit;
+				color:#38568b ;
 			}
 
 				ul.icons li a:hover {
-					color:#38568b;
+					color:rgba(128, 128, 128, 0.74902);
 				}
 
 	ol.default {
@@ -2012,7 +2012,7 @@
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #132065;
+			background: rgba(192, 192, 192, 0.35);
 		}
 
 		input[type="button"].alt,
@@ -2378,7 +2378,7 @@
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #284381;
+		background: #38568b;
 		color: #fff;
 	}
 
@@ -2467,7 +2467,7 @@
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
-				background-color: rgba(239, 131, 118, 0.75);
+				background-color: #38568b;
 			}
 
 		.carousel .forward {
