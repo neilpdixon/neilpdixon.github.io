@@ -1626,7 +1626,7 @@
 	}
 
 		a:hover {
-			color: #ef8376;
+			color: #38568b;
 			border-bottom-color: transparent;
 		}
 
@@ -1857,7 +1857,7 @@
 			}
 
 				ul.icons li a:hover {
-					color: #ef8376;
+					color:#38568b;
 				}
 
 	ol.default {
@@ -1903,7 +1903,7 @@
 		form select:focus,
 		form textarea:focus {
 			background: #fff;
-			border-color: #df7366;
+			border-color: #38568b;
 		}
 
 	form input[type="text"],
@@ -2294,7 +2294,7 @@
 			}
 
 			.dropotron li:hover {
-				color: #ef8376;
+				color:#38568b;
 			}
 
 			.dropotron li a, .dropotron li span {
@@ -3040,3 +3040,14 @@
 					}
 
 	}
+div.video {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+div.piwo {
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: -45px;
+    font-size: 11px;
+}
